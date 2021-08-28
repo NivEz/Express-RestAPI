@@ -1,0 +1,23 @@
+{
+    "tableGames": [
+        {
+            "productName": "Doom",
+            "quantity": "25000",
+            "price": "15",
+            "imgPath": "./assets/doom.jpg",
+            "id": 1622027714373
+        },
+        {
+            "productName": "Maple Story",
+            "quantity": "100",
+            "price": "30",
+            "id": 1623938121398
+        },
+        {
+            "productName": "Dishonored",
+            "price": "123",
+            "quantity": "1122",
+            "id": "1624112673837"
+        }
+    ]
+}

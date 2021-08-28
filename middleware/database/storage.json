@@ -1,0 +1,49 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "name": "FIFA 20",
+      "category": "sports",
+      "platform": {
+        "pc": {
+          "steam": {
+            "price": 19.99,
+            "inStock": 32,
+            "time": 45645384231
+          },
+          "origin": {
+            "price": 22.49,
+            "inStock": 0,
+            "time": 8324209523
+          }
+        },
+        "xbox": {
+          "price": 25.99,
+          "inStock": 15,
+          "time": 4567823456
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "Doom",
+      "category": "action",
+      "platform": {
+        "pc": {
+          "steam": {
+            "price": 10.99,
+            "inStock": 21,
+            "time": 123587324
+          }
+        },
+        "xbox": {
+          "price": 25.99,
+          "inStock": 0,
+          "time": 37465298736
+        }
+      }
+    }
+  ]
+}
+
+
