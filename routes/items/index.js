@@ -5,7 +5,7 @@ const router = require("express-promise-router")({
     }),
     logic = require('./logic')
 
-router.get('/', (req, res) => {
+router.post('/', (req, res) => {
     const result = logic.getItems(req.query);
     res.status(200).json({result});
 })
